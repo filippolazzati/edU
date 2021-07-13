@@ -8,7 +8,7 @@ C
 
 ## Usage
 
-Just compile and run it through, for instance, the gcc compiler:
+Just compile it through, for instance, the gcc compiler:
 ```
 gcc main.c -o main
 ```
